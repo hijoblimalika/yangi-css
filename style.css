@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(85deg,violet, dodgerblue );
+    color: #fff;
+    border: violet;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+body h1{
+    font-size: 5vw;
+    text-transform: uppercase;
+}
