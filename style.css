@@ -9,13 +9,14 @@ body{
     height: 100vh;
     background: linear-gradient(85deg,violet, dodgerblue );
     color: #fff;
-    border: violet;
+    border:2px violet;
     display: flex;
     align-items: center;
     justify-content: center;
-
+flex-direction: column;
 }
 body h1{
     font-size: 5vw;
     text-transform: uppercase;
+
 }
